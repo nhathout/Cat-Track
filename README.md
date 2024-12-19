@@ -65,8 +65,16 @@ CatTrack is a behavior tracking device designed to monitor and classify feline a
 
 ## Demonstrations
 
-- **Report Video:** (*Link to be provided*)
-- **Design Demo Video:** (*Link to be provided*)
+- [**Device Functionality Demo Video**](https://drive.google.com/file/d/1kXdl_pqsfS58n2JaBD2br86vPUoF4mpm/view?usp=sharing)
+- [**Design Walkthrough Video**](https://drive.google.com/file/d/1MHmP07e8tH0pH1_1BzXr1exhsDJ_sImG/view?usp=sharing)
+
+## Appendix
+Circuit diagram:
+![circuit-diagram](https://github.com/BU-EC444/Quest2-Team6-Bardwick-Hathout-Knutsen-Tran/blob/main/quest2/circuit-diagram1.png)
+
+Images of circuit:
+![circuit1](https://github.com/BU-EC444/Quest2-Team6-Bardwick-Hathout-Knutsen-Tran/blob/main/quest2/circuit-image1.png)
+![circuit2](https://github.com/BU-EC444/Quest2-Team6-Bardwick-Hathout-Knutsen-Tran/blob/main/quest2/circuit-image2.png)
 
 ---
 
